@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning React
 - 🥅 2022 Goals: Finish my personal blog
-- ⚡ Hobby : Playing games
+- ⚡ Hobby : Drawing an eyes
 
 ### Connect with me:
 
