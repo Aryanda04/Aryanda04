@@ -37,8 +37,8 @@
 ### 📕 Latest Project
 
 <!-- Project-POST-LIST:START -->
-- Movie Catalogue Using TMDB [Movie Catalogue] (https://movie-cataloguetmdb.netlify.app)
-- Sanbercode React JS Batch 33 [JobiFy] (https://aryanda-jobify.netlify.app/)
+- Movie Catalogue Using TMDB [Movie Catalogue](https://movie-cataloguetmdb.netlify.app)
+- Sanbercode React JS Batch 33 [JobiFy](https://aryanda-jobify.netlify.app/)
 - Aryanda Rizky Website [Portfolio Website](https://aryanda04.github.io/portfolio/)
 - Cat Website Using The Cat API [Mew World](https://meow-world-k2ncf4rom-aryanda04.vercel.app/)
 
