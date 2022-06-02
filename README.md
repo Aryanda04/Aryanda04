@@ -37,6 +37,7 @@
 ### 📕 Latest Project
 
 <!-- Project-POST-LIST:START -->
+- Biography Website [Biography](https://aryanda04.github.io/Biography/)
 - Restaurant Catalogue with PWA + Automation testing [FSY For Your Stomach](https://catalog-restaurant.vercel.app/)
 - Movie Catalogue Using TMDB [Movie Catalogue](https://movie-cataloguetmdb.netlify.app)
 - Sanbercode React JS Batch 33 [JobiFy](https://aryanda-jobify.netlify.app/)
