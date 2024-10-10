@@ -12,10 +12,11 @@
 
 <!-- [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only) -->
-
+<!--
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/aryanda-rizky-pratama-b364a11a4/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/aryanda-rizky-pratama-b364a11a4/#gh-dark-mode-only)
+-->
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/aryandarizky7/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/aryandarizky7/#gh-dark-mode-only)
