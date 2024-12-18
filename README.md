@@ -9,6 +9,14 @@
 - ⚡ Hobby : Drawing an eyes
 
 ### Connect with me:
+graph TD;
+    A[Program dan Inisiatif] --> B[Program Beasiswa SIMPOR]
+    A --> C[Bantuan Operasional Pendidikan]
+    A --> D[Insentif bagi Guru Non-ASN]
+    A --> E[Pendampingan dan Sosialisasi]
+    A --> F[Verifikasi dan Validasi Data ATS]
+    A --> G[Pembentukan Tim Koordinasi]
+
 
 <!-- [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only) -->
